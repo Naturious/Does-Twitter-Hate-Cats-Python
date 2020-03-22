@@ -5,6 +5,10 @@ Reimplemented in Python by Adam Bensalah March 2020
 Source code & Lesson files for the A Cloud Guru, Maker lab - Does-Twitter-Hate-Cats.
 A tongue in cheek exercise in social media mining using text analytics.
 
+## Getting an idea on how the data is structured in the databases:
+![](images/raw_tweets.png)
+![](tw_sentiment.png)
+
 ## aCloud.Guru
 This file was created for the purposes of the Maker lab - Does-Twitter-Hate-Cats Course from [aCloud.Guru](https://acloud.guru)
 
@@ -13,3 +17,6 @@ These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS 
 
 ## April 2018
 Initial creation
+
+## March 2020
+Recreation in Python
